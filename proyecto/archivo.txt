@@ -1,0 +1,429 @@
+
+Comuna: Las Condes
+	Fecha y hora de actualización: 2019-09-05 08:07:37
+	Horario de atención: 24 horas
+	Nombre distribuidor: Copec
+	Razón Social: ADMINISTRADORA DE VENTAS AL DETALLE
+	Dirección: Avenida Las Condes 12145
+gasolina 93: 816
+gasolina 97: 891
+petroleo diesel: 620
+gasolina 95: 856
+	efectivo: Sí
+	cheque: Sí
+	tarjetas bancarias: Sí
+	tarjetas grandes tiendas: Sí
+	tienda: Sí
+	farmacia: Sí
+	mantencion: Sí
+	autoservicio: No
+
+Comuna: Las Condes
+	Fecha y hora de actualización: 2019-09-05 11:47:23
+	Horario de atención: 24 horas
+	Nombre distribuidor: Copec
+	Razón Social: Comercial y Distribuidora R y G Ltda // RUT: : 78.636.280-6
+	Dirección: San Ramón 2701
+gasolina 93: 818
+gasolina 97: 893
+petroleo diesel: 622
+gasolina 95: 856
+	efectivo: Sí
+	cheque: No
+	tarjetas bancarias: Sí
+	tarjetas grandes tiendas: Sí
+	tienda: Sí
+	farmacia: No
+	mantencion: No
+	autoservicio: No
+
+Comuna: Las Condes
+	Fecha y hora de actualización: 2019-09-05 09:38:26
+	Horario de atención: 24 horas
+	Nombre distribuidor: Copec
+	Razón Social: JAIME MORERE R-T Y CIA LTDA
+	Dirección: Andrés Bello 2722
+gasolina 93: 818
+gasolina 97: 894
+petroleo diesel: 625
+gasolina 95: 859
+	efectivo: Sí
+	cheque: Sí
+	tarjetas bancarias: Sí
+	tarjetas grandes tiendas: Sí
+	tienda: Sí
+	farmacia: No
+	mantencion: No
+	autoservicio: No
+
+Comuna: Las Condes
+	Fecha y hora de actualización: 2019-09-05 10:23:52
+	Horario de atención: 24 horas
+	Nombre distribuidor: Copec
+	Razón Social: Administradora de ventas al detalle ltda.
+	Dirección: Avenida Colón 7400
+gasolina 93: 811
+gasolina 97: 881
+petroleo diesel: 615
+gasolina 95: 856
+	efectivo: Sí
+	cheque: No
+	tarjetas bancarias: No
+	tarjetas grandes tiendas: No
+	tienda: No
+	farmacia: No
+	mantencion: No
+	autoservicio: No
+
+Comuna: Las Condes
+	Fecha y hora de actualización: 2019-09-05 08:15:43
+	Horario de atención: 24 horas
+	Nombre distribuidor: Copec
+	Razón Social: Comercial Maho Ltda
+	Dirección: Manquehue Norte 674
+gasolina 93: 817
+gasolina 97: 898
+petroleo diesel: 624
+gasolina 95: 858
+	efectivo: Sí
+	cheque: Sí
+	tarjetas bancarias: Sí
+	tarjetas grandes tiendas: Sí
+	tienda: Sí
+	farmacia: No
+	mantencion: No
+	autoservicio: No
+
+Comuna: Las Condes
+	Fecha y hora de actualización: 2019-09-05 06:51:38
+	Horario de atención: 24 horas
+	Nombre distribuidor: Copec
+	Razón Social: Comercial y Servicios Aremiti Ltda. 76.018.300-8
+	Dirección: Avenida Las Condes 8170
+gasolina 93: 818
+gasolina 97: 893
+petroleo diesel: 622
+gasolina 95: 858
+	efectivo: Sí
+	cheque: Sí
+	tarjetas bancarias: Sí
+	tarjetas grandes tiendas: Sí
+	tienda: Sí
+	farmacia: No
+	mantencion: Sí
+	autoservicio: No
+
+Comuna: Las Condes
+	Fecha y hora de actualización: 2019-09-05 16:37:22
+	Horario de atención: 24 horas
+	Nombre distribuidor: Copec
+	Razón Social: Administradora de ventas al detalle ltda
+	Dirección: Camino El Alba 9610
+gasolina 93: 818
+gasolina 97: 894
+petroleo diesel: 622
+gasolina 95: 856
+	efectivo: Sí
+	cheque: Sí
+	tarjetas bancarias: Sí
+	tarjetas grandes tiendas: Sí
+	tienda: No
+	farmacia: No
+	mantencion: No
+	autoservicio: No
+
+Comuna: Las Condes
+	Fecha y hora de actualización: 2019-09-05 15:20:18
+	Horario de atención: 24 horas
+	Nombre distribuidor: Copec
+	Razón Social: SOC. COM. PINTO Y CANDIA LTDA.
+	Dirección: Isabel La Catolica 4020
+gasolina 93: 781
+gasolina 97: 837
+petroleo diesel: 594
+gasolina 95: 809
+	efectivo: Sí
+	cheque: Sí
+	tarjetas bancarias: Sí
+	tarjetas grandes tiendas: Sí
+	tienda: No
+	farmacia: No
+	mantencion: No
+	autoservicio: No
+
+Comuna: Las Condes
+	Fecha y hora de actualización: 2019-09-05 09:14:56
+	Horario de atención: 24 horas
+	Nombre distribuidor: Copec
+	Razón Social: Comercial y Servicios RYR LTDA.
+	Dirección: Av. Apoquindo 7520
+gasolina 93: 811
+gasolina 97: 893
+petroleo diesel: 615
+gasolina 95: 858
+	efectivo: Sí
+	cheque: Sí
+	tarjetas bancarias: Sí
+	tarjetas grandes tiendas: Sí
+	tienda: Sí
+	farmacia: No
+	mantencion: Sí
+	autoservicio: No
+
+Comuna: Las Condes
+	Fecha y hora de actualización: 2019-09-05 08:09:58
+	Horario de atención: 24 horas
+	Nombre distribuidor: Petrobras
+	Razón Social: petrobras chile red ltda
+	Dirección: Apoquindo 8483
+gasolina 93: 821
+gasolina 97: 903
+petroleo diesel: 625
+gasolina 95: 868
+	efectivo: Sí
+	cheque: Sí
+	tarjetas bancarias: Sí
+	tarjetas grandes tiendas: Sí
+	tienda: Sí
+	farmacia: No
+	mantencion: No
+	autoservicio: No
+
+Comuna: Las Condes
+	Fecha y hora de actualización: 2019-09-05 08:17:50
+	Horario de atención: 24 horas
+	Nombre distribuidor: Petrobras
+	Razón Social: Esmax Distribución Spa
+	Dirección: Manquehue sur 1590
+gasolina 93: 789
+gasolina 97: 880
+petroleo diesel: 594
+gasolina 95: 835
+	efectivo: Sí
+	cheque: Sí
+	tarjetas bancarias: Sí
+	tarjetas grandes tiendas: Sí
+	tienda: Sí
+	farmacia: No
+	mantencion: No
+	autoservicio: No
+
+Comuna: Las Condes
+	Fecha y hora de actualización: 2019-09-05 09:05:27
+	Horario de atención: 24 horas
+	Nombre distribuidor: Petrobras
+	Razón Social: PETROBRAS CHILE RED LIMITADA
+	Dirección: Avenida Las Condes 12373
+gasolina 93: 816
+gasolina 97: 891
+petroleo diesel: 620
+gasolina 95: 856
+	efectivo: Sí
+	cheque: Sí
+	tarjetas bancarias: Sí
+	tarjetas grandes tiendas: Sí
+	tienda: Sí
+	farmacia: No
+	mantencion: No
+	autoservicio: No
+
+Comuna: Las Condes
+	Fecha y hora de actualización: 2019-09-05 08:10:11
+	Horario de atención: 24 horas
+	Nombre distribuidor: Petrobras
+	Razón Social: --PETROBRAS CHILE RED LIMITADA (Bloqueo en Mantenimiento)
+	Dirección: Avenida Manquehue 415
+gasolina 93: 817
+gasolina 97: 898
+petroleo diesel: 624
+gasolina 95: 858
+	efectivo: Sí
+	cheque: Sí
+	tarjetas bancarias: Sí
+	tarjetas grandes tiendas: Sí
+	tienda: Sí
+	farmacia: No
+	mantencion: Sí
+	autoservicio: No
+
+Comuna: Las Condes
+	Fecha y hora de actualización: 2019-09-05 07:21:26
+	Horario de atención: 24 horas
+	Nombre distribuidor: Petrobras
+	Razón Social: PETROBRAS CHILE RED LTDA.
+	Dirección: Cristobal Colon 7550
+gasolina 93: 811
+gasolina 97: 881
+petroleo diesel: 615
+gnc: 535
+glp vehicular: 373
+gasolina 95: 856
+	efectivo: Sí
+	cheque: Sí
+	tarjetas bancarias: Sí
+	tarjetas grandes tiendas: Sí
+	tienda: Sí
+	farmacia: No
+	mantencion: No
+	autoservicio: No
+
+Comuna: Las Condes
+	Fecha y hora de actualización: 2019-09-05 11:36:26
+	Horario de atención: 24 horas
+	Nombre distribuidor: Shell
+	Razón Social: COMERCIAL AG LIMITADA RUT 76.246.364-4
+	Dirección: Avenida Las Condes 8321
+gasolina 93: 818
+gasolina 97: 893
+petroleo diesel: 622
+gasolina 95: 858
+	efectivo: Sí
+	cheque: Sí
+	tarjetas bancarias: Sí
+	tarjetas grandes tiendas: No
+	tienda: Sí
+	farmacia: No
+	mantencion: No
+	autoservicio: No
+
+Comuna: Las Condes
+	Fecha y hora de actualización: 2019-09-05 15:05:42
+	Horario de atención: 24 horas
+	Nombre distribuidor: Shell
+	Razón Social: Inversiones Enex S.A.
+	Dirección: Avenida Cristobal Col?n 4359
+gasolina 93: 781
+gasolina 97: 837
+petroleo diesel: 594
+gasolina 95: 809
+	efectivo: Sí
+	cheque: No
+	tarjetas bancarias: Sí
+	tarjetas grandes tiendas: No
+	tienda: Sí
+	farmacia: Sí
+	mantencion: Sí
+	autoservicio: No
+
+Comuna: Las Condes
+	Fecha y hora de actualización: 2019-09-05 10:16:22
+	Horario de atención: 24 horas
+	Nombre distribuidor: Shell
+	Razón Social: COMERCIAL CL LTDA
+	Dirección: Tomás Moro 1945
+gasolina 93: 789
+gasolina 97: 880
+petroleo diesel: 594
+gasolina 95: 835
+	efectivo: Sí
+	cheque: No
+	tarjetas bancarias: Sí
+	tarjetas grandes tiendas: Sí
+	tienda: Sí
+	farmacia: No
+	mantencion: Sí
+	autoservicio: No
+
+Comuna: Las Condes
+	Fecha y hora de actualización: 2019-09-05 15:11:09
+	Horario de atención: 24 horas
+	Nombre distribuidor: Shell
+	Razón Social: COMERCIAL AG LIMITADA RUT 76.246.364-4
+	Dirección: Avenida General Blanche 11860
+gasolina 93: 818
+gasolina 97: 893
+petroleo diesel: 622
+gasolina 95: 856
+	efectivo: Sí
+	cheque: Sí
+	tarjetas bancarias: Sí
+	tarjetas grandes tiendas: Sí
+	tienda: Sí
+	farmacia: No
+	mantencion: No
+	autoservicio: No
+
+Comuna: Las Condes
+	Fecha y hora de actualización: 2019-09-05 10:03:02
+	Horario de atención: 24 horas
+	Nombre distribuidor: Shell
+	Razón Social: PATRICIA  ARTEAGA ROCUANT
+	Dirección: Avenida Cristobal Colón 7026
+gasolina 93: 811
+gasolina 97: 881
+petroleo diesel: 615
+gasolina 95: 856
+	efectivo: Sí
+	cheque: Sí
+	tarjetas bancarias: Sí
+	tarjetas grandes tiendas: Sí
+	tienda: Sí
+	farmacia: No
+	mantencion: No
+	autoservicio: No
+
+Comuna: Las Condes
+	Fecha y hora de actualización: 2019-09-05 09:56:54
+	Horario de atención: 24 horas
+	Nombre distribuidor: Shell
+	Razón Social: DISTRIBUIDORA Y COMERCIALIZADORA SV SPA
+	Dirección: Patagonia 75
+gasolina 93: 811
+gasolina 97: 893
+petroleo diesel: 615
+gasolina 95: 858
+	efectivo: Sí
+	cheque: No
+	tarjetas bancarias: Sí
+	tarjetas grandes tiendas: No
+	tienda: Sí
+	farmacia: No
+	mantencion: No
+	autoservicio: No
+
+Comuna: Las Condes
+	Fecha y hora de actualización: 2019-09-05 08:06:46
+	Horario de atención: 24 horas
+	Nombre distribuidor: Petrobras
+	Razón Social: Esmax Red Limitada
+	Dirección: Las Condes 9595
+gasolina 93: 818
+gasolina 97: 893
+petroleo diesel: 622
+gasolina 95: 858
+	efectivo: Sí
+	cheque: No
+	tarjetas bancarias: Sí
+	tarjetas grandes tiendas: No
+	tienda: No
+	farmacia: No
+	mantencion: No
+	autoservicio: No
+
+Comuna: Las Condes
+	Fecha y hora de actualización: 2019-09-05 11:13:42
+	Horario de atención: 24 horas
+	Nombre distribuidor: Shell
+	Razón Social: Distribuidora Sergio Hernan Iglesias Jaña EIRL /76.121.617-1
+	Dirección: Los Pozos 7180
+gasolina 93: 811
+gasolina 97: 881
+petroleo diesel: 615
+gasolina 95: 856
+	efectivo: Sí
+	cheque: Sí
+	tarjetas bancarias: Sí
+	tarjetas grandes tiendas: No
+	tienda: No
+	farmacia: No
+	mantencion: No
+	autoservicio: No
+
+=====================================================================================================
+Basado en la información consultada, se puede concluir que:
+El combustible más barto de la comuna de Las Condes es glp vehicular y vale: 373 pesos por litro.
+El combustible más caro de la comuna de Las Condes es gasolina 97 y vale: 903 pesos por litro.
+La diferencia entre el combustible más barto y más caro es: 530 pesos.
+En 10 litros del combustible más barato ud gastará: 3730 pesos
+En 10 litros del combustible más caro ud gastará: 9030 pesos
+La diferencia es de : 5300 pesos
